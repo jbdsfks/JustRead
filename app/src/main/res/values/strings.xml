@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JustRead</string>
+    <string name="listview_header_hint_normal">pull to refresh</string>
+    <string name="listview_header_hint_release">release to start refresh</string>
+    <string name="listview_loading">loading...</string>
+    <string name="nomore_loading">no more to be loaded</string>
+    <string name="refreshing">refreshing...</string>
+    <string name="refresh_done">refresh done</string>
+    <string name="listview_header_last_time">last update：</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
